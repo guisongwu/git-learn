@@ -2,9 +2,6 @@ Reference: https://git-scm.com/cheat-sheet
 
 # Getting Started
 
-- **git init** --- *Start a new repo*
-- **git clone `<url>`** --- *Clone an existing repo*
-
 | Commands | Description |
 | :---: | :---: |
 | **git init** | Start a new repo |
@@ -15,10 +12,6 @@ Reference: https://git-scm.com/cheat-sheet
 
 
 # Prepare to Commit
-- **git add `<file>`** --- *Add untracked file or unstaged changes*
-- **git add .** --- *Add all untracked files and unstaged changes*
-- **git add -p** --- *Choose which parts of a file to stage*
-- **git mv `<old>` `<new>`** --- *Move file*
 
 | Commands | Description |
 | :---: | :---: |
