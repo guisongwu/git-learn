@@ -3,7 +3,9 @@ Git is an open source software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 
+
 test git pull when local repo is not up to date with remote
 
 
+local change
 
